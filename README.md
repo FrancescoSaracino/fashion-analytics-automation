@@ -11,6 +11,7 @@ Il progetto permette di consolidare dati provenienti da **file CSV ed Excel** e 
 
 ## 📂 Struttura della repository
 
+```text
 moda-analytics-automation/
 │
 ├─ data/
@@ -30,7 +31,7 @@ moda-analytics-automation/
 │
 ├─ README.md               # file completo già pronto
 └─ LICENSE                 # MIT License (facoltativa)
-
+```
 ---
 
 ## ⚡ Funzionalità principali
