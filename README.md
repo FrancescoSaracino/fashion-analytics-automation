@@ -1,4 +1,4 @@
-# 🎨 Moda Analytics Automation
+# 🎨 Fashion Analytics Automation
 
 ## 📝 Descrizione del progetto
 
